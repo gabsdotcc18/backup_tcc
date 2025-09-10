@@ -1,0 +1,18 @@
+{
+  "left": {
+    "passes_tentados": 1,
+    "passes_certos": 0,
+    "finalizacoes": 1,
+    "finalizacoes_certas": 0,
+    "finalizacoes_erradas": 1,
+    "gols": 0
+  },
+  "right": {
+    "passes_tentados": 4,
+    "passes_certos": 0,
+    "finalizacoes": 3,
+    "finalizacoes_certas": 1,
+    "finalizacoes_erradas": 1,
+    "gols": 1
+  }
+}

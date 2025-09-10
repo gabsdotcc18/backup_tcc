@@ -1,0 +1,38 @@
+{
+  "legacy": {
+    "0": {
+      "passes_tentados": 0,
+      "passes_certos": 0,
+      "finalizacoes": 4,
+      "finalizacoes_certas": 1,
+      "finalizacoes_erradas": 2,
+      "gols": 1
+    },
+    "1": {
+      "passes_tentados": 2,
+      "passes_certos": 1,
+      "finalizacoes": 2,
+      "finalizacoes_certas": 0,
+      "finalizacoes_erradas": 1,
+      "gols": 0
+    }
+  },
+  "user": {
+    "0": {
+      "passes_tentados": 0,
+      "passes_certos": 0,
+      "finalizacoes": 4,
+      "finalizacoes_certas": 1,
+      "finalizacoes_erradas": 2,
+      "gols": 1
+    },
+    "1": {
+      "passes_tentados": 2,
+      "passes_certos": 1,
+      "finalizacoes": 2,
+      "finalizacoes_certas": 0,
+      "finalizacoes_erradas": 1,
+      "gols": 0
+    }
+  }
+}

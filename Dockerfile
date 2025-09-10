@@ -1,5 +1,4 @@
-ARG DOCKER_BASE
-FROM $DOCKER_BASE
+FROM ubuntu:20.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get --no-install-recommends install -yq git cmake build-essential \
@@ -12,5 +11,6 @@ RUN python3 -m pip install --upgrade pip setuptools wheel
 RUN python3 -m pip install psutil
 
 COPY . /gfootball
+RUN python3 -m pip install "setuptools<60"
 RUN cd /gfootball && python3 -m pip install .
 WORKDIR '/gfootball'

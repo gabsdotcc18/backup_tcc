@@ -1,0 +1,14 @@
+step,evento,time,extra_json
+49,finalizacao_tentada_user,0,"{""kicker"": 1, ""touch_id"": 1, ""ang_g"": 4.467637113120915}"
+85,gol,0,"{""delta"": 1, ""score"": [1, 0]}"
+144,finalizacao_tentada_user,1,"{""kicker"": 1, ""touch_id"": 2, ""ang_g"": 0.12579296970883846}"
+200,finalizacao_fora_user,1,{}
+234,passe_tentado_user,1,"{""from_idx"": 2, ""to_idx"": 1, ""touch_id"": 28, ""ang_pass"": 25.977750670691456}"
+242,passe_certo_user,1,"{""from_idx"": 2, ""to_idx"": 1, ""touch_id"": 28}"
+320,passe_tentado_user,1,"{""from_idx"": 1, ""to_idx"": 2, ""touch_id"": 68, ""ang_pass"": 1.0340927185224449}"
+361,passe_nao_concluido_user,1,"{""reason"": ""timeout"", ""touch_id"": 68}"
+363,finalizacao_tentada_user,0,"{""kicker"": 0, ""touch_id"": 77, ""ang_g"": 9.959528901856716}"
+419,finalizacao_fora_user,0,{}
+421,finalizacao_tentada_user,0,"{""kicker"": 0, ""touch_id"": 88, ""ang_g"": 4.71902322154356}"
+477,finalizacao_fora_user,0,{}
+478,finalizacao_tentada_user,1,"{""kicker"": 2, ""touch_id"": 110, ""ang_g"": 6.799273218110386}"

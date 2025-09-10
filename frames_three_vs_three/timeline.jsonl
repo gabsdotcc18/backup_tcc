@@ -1,0 +1,26 @@
+{"step": 49, "type": "event", "source": "legacy", "name": "finalizacao_tentada_legacy", "team": 0, "extra": {"kicker": 1, "touch_id": 1}}
+{"step": 49, "type": "event", "source": "user", "name": "finalizacao_tentada_user", "team": 0, "extra": {"kicker": 1, "touch_id": 1, "ang_g": 4.467637113120915}}
+{"step": 85, "type": "event", "source": "legacy", "name": "gol", "team": 0, "extra": {"delta": 1, "score": [1, 0]}}
+{"step": 85, "type": "event", "source": "user", "name": "gol", "team": 0, "extra": {"delta": 1, "score": [1, 0]}}
+{"step": 144, "type": "event", "source": "legacy", "name": "finalizacao_tentada_legacy", "team": 1, "extra": {"kicker": 1, "touch_id": 2}}
+{"step": 144, "type": "event", "source": "user", "name": "finalizacao_tentada_user", "team": 1, "extra": {"kicker": 1, "touch_id": 2, "ang_g": 0.12579296970883846}}
+{"step": 200, "type": "event", "source": "legacy", "name": "finalizacao_fora_legacy", "team": 1, "extra": {}}
+{"step": 200, "type": "event", "source": "user", "name": "finalizacao_fora_user", "team": 1, "extra": {}}
+{"step": 234, "type": "event", "source": "legacy", "name": "passe_tentado_legacy", "team": 1, "extra": {"from_idx": 2, "to_idx": 1, "touch_id": 28}}
+{"step": 234, "type": "event", "source": "user", "name": "passe_tentado_user", "team": 1, "extra": {"from_idx": 2, "to_idx": 1, "touch_id": 28, "ang_pass": 25.977750670691456}}
+{"step": 242, "type": "event", "source": "legacy", "name": "passe_certo_legacy", "team": 1, "extra": {"from_idx": 2, "to_idx": 1, "touch_id": 28}}
+{"step": 242, "type": "event", "source": "user", "name": "passe_certo_user", "team": 1, "extra": {"from_idx": 2, "to_idx": 1, "touch_id": 28}}
+{"step": 320, "type": "event", "source": "legacy", "name": "passe_tentado_legacy", "team": 1, "extra": {"from_idx": 1, "to_idx": 2, "touch_id": 68}}
+{"step": 320, "type": "event", "source": "user", "name": "passe_tentado_user", "team": 1, "extra": {"from_idx": 1, "to_idx": 2, "touch_id": 68, "ang_pass": 1.0340927185224449}}
+{"step": 361, "type": "event", "source": "legacy", "name": "passe_nao_concluido_legacy", "team": 1, "extra": {"reason": "timeout", "touch_id": 68}}
+{"step": 361, "type": "event", "source": "user", "name": "passe_nao_concluido_user", "team": 1, "extra": {"reason": "timeout", "touch_id": 68}}
+{"step": 363, "type": "event", "source": "legacy", "name": "finalizacao_tentada_legacy", "team": 0, "extra": {"kicker": 0, "touch_id": 77}}
+{"step": 363, "type": "event", "source": "user", "name": "finalizacao_tentada_user", "team": 0, "extra": {"kicker": 0, "touch_id": 77, "ang_g": 9.959528901856716}}
+{"step": 419, "type": "event", "source": "legacy", "name": "finalizacao_fora_legacy", "team": 0, "extra": {}}
+{"step": 419, "type": "event", "source": "user", "name": "finalizacao_fora_user", "team": 0, "extra": {}}
+{"step": 421, "type": "event", "source": "legacy", "name": "finalizacao_tentada_legacy", "team": 0, "extra": {"kicker": 0, "touch_id": 88}}
+{"step": 421, "type": "event", "source": "user", "name": "finalizacao_tentada_user", "team": 0, "extra": {"kicker": 0, "touch_id": 88, "ang_g": 4.71902322154356}}
+{"step": 477, "type": "event", "source": "legacy", "name": "finalizacao_fora_legacy", "team": 0, "extra": {}}
+{"step": 477, "type": "event", "source": "user", "name": "finalizacao_fora_user", "team": 0, "extra": {}}
+{"step": 478, "type": "event", "source": "legacy", "name": "finalizacao_tentada_legacy", "team": 1, "extra": {"kicker": 2, "touch_id": 110}}
+{"step": 478, "type": "event", "source": "user", "name": "finalizacao_tentada_user", "team": 1, "extra": {"kicker": 2, "touch_id": 110, "ang_g": 6.799273218110386}}

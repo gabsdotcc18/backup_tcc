@@ -1,0 +1,10 @@
+step,evento,time,extra_json
+88,gol,0,"{""delta"": 1, ""score"": [1, 0]}"
+216,finalizacao_tentada,1,{}
+247,finalizacao_errada,1,{}
+334,finalizacao_tentada,1,{}
+365,finalizacao_errada,1,{}
+366,finalizacao_tentada,1,{}
+397,finalizacao_errada,1,{}
+450,finalizacao_tentada,1,{}
+468,gol,1,"{""delta"": 1, ""score"": [1, 1]}"
