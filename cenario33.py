@@ -17,13 +17,14 @@ import gfootball.env as football_env
 # =========================
 # Configurações principais
 # =========================
-SCENARIO_NAME = "three_vs_three"
+SCENARIO_NAME = "3x3"
 
 OUTPUT_DIR = f"frames_{SCENARIO_NAME}"                  # PNGs
 VIDEO_LOGDIR = os.path.join(OUTPUT_DIR, "video_logs")    # engine video (se suportado)
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(VIDEO_LOGDIR, exist_ok=True)
+
 
 # Limpa frames e vídeos antigos (sobrescrever sempre)
 for old_png in glob.glob(os.path.join(OUTPUT_DIR, "frame_*.png")):
@@ -94,7 +95,6 @@ def create_env_pixels():
 
 env = create_env_pixels()
 print("Ambiente criado com sucesso e render ativo.")
-
 # =========================
 # Utils — frames
 # =========================
